@@ -1,0 +1,6 @@
+source,budget_role,evidence_class,operation,native_or_output_unit
+CERES cap radiation,N_cap,observation-derived,TOA net radiation integrated over cap,W / PW
+NCEI OHC 0-2000 m,ocean storage,observation-derived mapped product,known ocean energy storage tendency,J / PW
+ERA5 total energy tendency,atmospheric storage,reanalysis-derived,known atmospheric energy storage tendency,J m-2 / PW
+PIOMAS v2.1 volume,sea-ice latent storage,model-assimilation-derived,E_ice = -rho L V,m3 / J / PW
+budget result,H_corr,derived required transport,dE_known/dt - N_cap,PW

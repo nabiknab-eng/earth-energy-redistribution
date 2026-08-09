@@ -1,0 +1,6 @@
+quantity,value,unit,derivation_or_source
+effective_TSI_S0,1361.8866430956432,W m-2,4 × CERES annual-global incoming SW
+global_mean_incoming_SW,340.4716607739108,W m-2,CERES 2001-2025
+global_mean_reflected_SW,98.8000777198109,W m-2,incoming SW − ASR
+global_mean_ASR,241.6715830540999,W m-2,CERES 2001-2025
+planetary_albedo,0.2901859070891037,1,reflected SW / incoming SW
