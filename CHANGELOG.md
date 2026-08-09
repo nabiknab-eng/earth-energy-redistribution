@@ -1,5 +1,14 @@
 # CHANGELOG — finální didakticko-jazyková revize
 
+## v1.1 — cílený patch
+
+- Hero: nová verze eyebrow, podnadpis a didaktický odstavec o dvou vrstvách dokumentu.
+- Obsah: doplněn dvoupanelový přehled Části I a Části II; původní TOC a odkazy zůstaly zachovány.
+- Obrázek 5: jižní větev nyní zachovává původní globální znaménkovou konvenci (kladně k severu, záporně k jihu); regenerovány byly pouze jeho SVG, PNG a grafový CSV.
+- Kapitola 9: doplněn fyzikální význam bilančních rovnic bez změny rovnic.
+- Slovníček: rozšířen pouze nadpis položky Storage alias.
+- Vlastní fyzikální profily, výsledky H_corr, H_raw, H_alias, neuzavřeného zbytku, Monte Carlo a ARFIMA zůstaly beze změny. V CSV obrázku 5 se změnilo pouze znaménkové zobrazení jižní větve, jak vyžaduje globální konvence.
+
 ## Změněné soubory
 
 - `src/build_final_atlas.py`: upraven aktivní generátor textu, popisků, os, legend a automatických kontrol; vědecké výpočty a vstupní datové větve zůstaly beze změny.
