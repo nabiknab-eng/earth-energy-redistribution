@@ -34,8 +34,9 @@ The following terms remain explicitly **UNQUANTIFIED**. Unquantified does not me
 
 ## Absolute closure limitation
 
-The climatological unresolved remainder is 0.557/0.401/0.305 PW at 60/65/70°N. Near 70°N, comparison with the second auditor's literature sanity range for OHT leaves roughly 0.1 PW to the range midpoint. The absolute budget is therefore not independently physically closed below order 0.1 PW at that boundary.
+The climatological unresolved remainder is 0.557/0.401/0.305 PW at 60/65/70°N. At 70°N, the difference from the indicative OHT comparison midpoint of 0.20 PW is 0.105 PW. Without matching latitude boundary, period, mask, and transport definition, this difference is a scale comparison rather than an estimate or lower bound of budget-closure accuracy.
 
 ## Scope
 
 No result attributes ASR, meridional transport, or Arctic amplification to CO₂, clouds, aerosols, forcing, or any other cause.
+

@@ -23,7 +23,7 @@ Všechny transporty a gapy jsou PW; kladné znamená poleward/northward přes hr
 
 Bez boundary-matched nezávislého OHT produktu zůstává nealokovaný absolutní remainder na 60/65/70°N **0,557 / 0,401 / 0,305 PW**. Druhý audit poskytl pouze řádové literární sanity comparison `0,15–0,25 PW` poblíž 70°N. Toto rozmezí nebylo v Etapě 11 znovu odvozeno a není vstupem výpočtu.
 
-Při porovnání 70°N remainderu 0,305 PW s midpointem 0,20 PW zůstává přibližně **0,105 PW**, tedy rozpočet je zde prakticky uzavřen jen na řád **0,1 PW**. Nad horní hranicí sanity range zůstává 0,055 PW. Obě definice jsou v CSV explicitně odděleny.
+U 70°N se neuzavřený zbytek 0,305 PW liší od orientačního středu publikovaného srovnání OHT 0,20 PW o **0,105 PW**. Nad horní hranicí srovnávacího rozsahu zůstává 0,055 PW. Bez přesně odpovídající hranice, období, masky a definice transportu tato vzdálenost od srovnání neurčuje přesnost energetické uzávěry. Obě číselná porovnání jsou v CSV oddělena.
 
 ## Omezení interpretace
 
@@ -41,3 +41,4 @@ Při porovnání 70°N remainderu 0,305 PW s midpointem 0,20 PW zůstává přib
 Proto lze bezpečně tvrdit pouze to, že ERA5 atmosféra vysvětluje přibližně 81–90 % klimatologického required transportu na 50–80°N a zbytek zůstává fyzikálně nerozložený. Z tabulky nelze odvodit trend oceánského transportu.
 
 Strojově čitelný zdroj: `absolute_closure_assessment.csv`.
+
